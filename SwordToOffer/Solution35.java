@@ -3,7 +3,7 @@
  * @date 2020/3/19 10:23
  * 复杂链表的复制
  */
-public class Solution {
+public class Solution35 {
 
     class Node {
         int val;
